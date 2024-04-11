@@ -30,6 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Certified in Agile QA practices and Product Management, I've contributed to open-source frameworks, advocated for the automation test pyramid, and received accolades for teamwork, openness, collaboration, and innovation from Symantec Corporation.
 
+  - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 # Projects Section
 # projects_title: Projects
 
@@ -38,6 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+
+- title: Certification Badges
+    layout: text
+    content: | # this will include new lines to allow paragraphs  
+      ![AWS Badges](/images/aws_badges.pngg "AWS")
+      ![Securiti Badges](/images/securiti_badges.pngg "Securiti")
 
 # More Section
 # more_title: A Little More About Me
