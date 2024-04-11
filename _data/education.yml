@@ -1,0 +1,16 @@
+- layout: left
+  name: National University of Computer & Emerging Science – FAST, Pakistan 
+  dates: 2011 - 2013
+  qualification: Master of Science (M.S.) in Computer Science
+  quote: >
+    The National University of Computer & Emerging Science – FAST, Pakistan is a prestigious university for higher education in science and technology.
+  description: | # this will include new lines to allow paragraphs
+    Graduated from National University of Computer & Emerging Science – FAST with Master of Science (M.S.) in Computer Science degree in 2013
+
+  name: University of Karachi, Pakistan
+  dates: 2007 - 2010
+  qualification: Bachelor of Science (B.S.) in Computer Science
+  quote: >
+    The University of Karachi, Pakistan is a illustrious university for engineering
+  description: | # this will include new lines to allow paragraphs
+    Graduated from University of Karachi with Bachelor of Science (B.S.) in Computer Science degree in 2010
