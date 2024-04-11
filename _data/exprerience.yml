@@ -1,1 +1,27 @@
+- layout: left
+  company: Bentley Systems
+  link: https://www.bentley.com/
+  job_title: Senior Automation Lead Developer
+  dates: April 2023 - Present
+  quote: >
+   Bentley Systems, Incorporated is an American-based software development company that develops, manufactures, licenses, sells and supports computer software and services for the design, construction, and operation of infrastructure.
+  
+  description: | # this will include new lines to allow paragraphs
+    ▪ Working on Seequent - World-leading earth modelling, analysis, data management and collaboration software
+      - Led the deployment of Cypress Framework, integrated Percy via BrowserStack for visual discrepancy detection, and enhanced GitHub pipeline integration, optimizing web application testing suite efficiency. 
+      - Managed extensive automation test compendium, including 50,000+ tests across 12 environments, with AI/ML platform scrutiny and automated setup protocols. 
+      - Mentored teams in Testing and DevOps, deploying CI/CD pipelines with Jenkins, Spinnaker, and refining automation solutions for rapid product quality ascertainment.
 
+- layout: left
+  company: Symantec Inc.
+  link: https://www.symantec.com/
+  job_title: Staff Engineer - QA
+  dates: March 2015 - March 2019
+  quote: >
+   Data Science Powered™ CASB  | CloudSOC™ platform for Cloud and SaaS applications | Fastest growing product in Symantec portfolio for 7 quarters in a row and triple digit growth in every quarter
+
+  description: | # this will include new lines to allow paragraphs
+    ▪ Worked on CloudSOC™ platform for Cloud and SaaS applications which was Data Science Powered™ Cloud Access Security Broker from its inception at Elastica to Symantec
+      - Developing/Managing automation frameworks for testing REST/Browser/Mobile/Desktop applications using open source tools
+      - Development and Maintenance of regression tests for CASB Framework module - Content Inspection with 99% automation coverage with 95% pass rate on nightly basis
+      - Worked on integration of Symantec products like Data Loss Prevention(DLP), Information Centric Encryption(ICE), Cloud Workload Assurance(CWA), Validation and ID Protection (VIP) Service with CASB
