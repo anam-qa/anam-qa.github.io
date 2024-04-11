@@ -25,7 +25,9 @@ linkedin_username: anamalam
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   With 12 years of expertise leading quality engineering teams, orchestrating SDLC and STLC, and driving comprehensive software development, specialized in architecting scalable automation frameworks, achieving 95% testing efficiency with Docker, Kubernetes, and CI. 
+ 
   Engineered extensive automation test suites deployed on AWS, Azure, GCP, and OCI, achieving over 98% coverage, while enhancing client satisfaction metrics and revenue streams through strategic QA processes. 
+  
   Certified in Agile QA practices and Product Management, I've contributed to open-source frameworks, advocated for the automation test pyramid, and received accolades for teamwork, openness, collaboration, and innovation from Symantec Corporation.
 
 
