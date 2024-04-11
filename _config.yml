@@ -41,9 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-- title: Certification Badges
-    layout: text
-    content: | # this will include new lines to allow paragraphs  
+# Certification and Badges Section
+# certification_title: Certification and Badges
+certification_content: | # this will include new lines to allow paragraphs 
       ![AWS Badges](/images/aws_badges.pngg "AWS")
       ![Securiti Badges](/images/securiti_badges.pngg "Securiti")
 
