@@ -1,0 +1,68 @@
+# Site
+repository: anam-qa/
+favicon: images/favicon.ico
+
+# Personal info
+name: Anam Alam
+title: Senior Automation Lead Developer
+email: anam.alam@live.com
+website: https://anam-qa.github.io/
+
+# Social links
+#twitter_username: eldorajan87
+github_username:  anam-qa
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: anamalam
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  With 12 years of expertise leading quality engineering teams, orchestrating SDLC and STLC, and driving comprehensive software development, specialized in architecting scalable automation frameworks, achieving 95% testing efficiency with Docker, Kubernetes, and CI. 
+  Engineered extensive automation test suites deployed on AWS, Azure, GCP, and OCI, achieving over 98% coverage, while enhancing client satisfaction metrics and revenue streams through strategic QA processes. 
+  Certified in Agile QA practices and Product Management, I've contributed to open-source frameworks, advocated for the automation test pyramid, and received accolades for teamwork, openness, collaboration, and innovation from Symantec Corporation.
+
+
+
+
+
+
+  
+
+  
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Reading
+   - Trekking
+   - Gaming
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
